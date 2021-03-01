@@ -1,0 +1,3 @@
+module Spring
+
+end # module
